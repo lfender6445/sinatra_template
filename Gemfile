@@ -4,7 +4,7 @@ gem 'slim'
 gem 'sinatra', '~> 1.4.2'
 
 group :development do
-  gem 'pry-debugger'
+  gem 'byebug'
   gem 'guard-coffeescript'
   gem 'guard-sass'
 end
